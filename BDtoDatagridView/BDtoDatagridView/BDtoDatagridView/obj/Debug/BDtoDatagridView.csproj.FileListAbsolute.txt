@@ -1,0 +1,9 @@
+C:\Users\jp_gl\source\repos\BDtoDatagridView\BDtoDatagridView\bin\Debug\BDtoDatagridView.exe.config
+C:\Users\jp_gl\source\repos\BDtoDatagridView\BDtoDatagridView\bin\Debug\BDtoDatagridView.exe
+C:\Users\jp_gl\source\repos\BDtoDatagridView\BDtoDatagridView\bin\Debug\BDtoDatagridView.pdb
+C:\Users\jp_gl\source\repos\BDtoDatagridView\BDtoDatagridView\obj\Debug\BDtoDatagridView.csprojAssemblyReference.cache
+C:\Users\jp_gl\source\repos\BDtoDatagridView\BDtoDatagridView\obj\Debug\BDtoDatagridView.Properties.Resources.resources
+C:\Users\jp_gl\source\repos\BDtoDatagridView\BDtoDatagridView\obj\Debug\BDtoDatagridView.sistema.resources
+C:\Users\jp_gl\source\repos\BDtoDatagridView\BDtoDatagridView\obj\Debug\BDtoDatagridView.csproj.GenerateResource.cache
+C:\Users\jp_gl\source\repos\BDtoDatagridView\BDtoDatagridView\obj\Debug\BDtoDatagridView.exe
+C:\Users\jp_gl\source\repos\BDtoDatagridView\BDtoDatagridView\obj\Debug\BDtoDatagridView.pdb
